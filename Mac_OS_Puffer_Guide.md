@@ -2,7 +2,7 @@
 
 This guide is for the local checkout at `PufferLib/` in this workspace.
 It is based on the 3.0 code state we actually validated here on Apple
-Silicon. It is meant to be a working runbook.
+Silicon (M4 Max 48gb). It is meant to be a working runbook.
 
 ## Scope
 
