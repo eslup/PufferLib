@@ -1,4 +1,4 @@
-# Guide to PufferLib
+# Guide to PufferLib for Mac OS Users (Apple Silicon) v1
 
 This guide is for the local checkout at `PufferLib/` in this workspace.
 It is based on the 3.0 code state we actually validated here on Apple
