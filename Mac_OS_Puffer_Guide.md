@@ -425,7 +425,7 @@ cd pufferlib/PufferLib
 source .venv/bin/activate
 puffer train puffer_breakout \
   --tag breakout-mastery-resume-mps \
-  --load-model-path pufferlib/PufferLib/experiments/puffer_breakout_177353608103/model_puffer_breakout_000954.pt \
+  --load-model-path pufferlib/PufferLib/experiments/puffer_breakout_xxx/model_puffer_breakout_xxxx.pt \
   --train.device mps \
   --vec.backend Multiprocessing \
   --vec.num-envs 8 \
@@ -453,13 +453,13 @@ Final result:
 - the finished top-level checkpoint is:
 
 ```text
-experiments/puffer_breakout_177353608103.pt
+experiments/puffer_breakout_xxx.pt
 ```
 
 - the run directory also contains periodic nested checkpoints up through:
 
 ```text
-experiments/puffer_breakout_177353608103/model_puffer_breakout_000954.pt
+experiments/puffer_breakout_xxx/model_puffer_breakout_xxx.pt
 ```
 
 ### Watch the solved Breakout agent
